@@ -1,0 +1,13 @@
+{
+  "name": "br.happyapps.blankapp",
+  "version": "1.0.0",
+  "displayName": "Blank App",
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {
+    "cordova-android": "~7.0.0"
+  }
+}
